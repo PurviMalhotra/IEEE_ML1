@@ -1,1 +1,1 @@
-# IEEE_ML1
+# Image Classification using Neural Networks
